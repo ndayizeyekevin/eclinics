@@ -8,7 +8,7 @@
 
 - **Backend:** PHP (with PDO for secure database access)
 - **Database:** MySQL
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
 - **Authentication:** Role-based login system (Admin, Doctor, Appointment Officer)
 
 ---
